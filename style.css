@@ -76,7 +76,7 @@ html{
   .btn {
     padding: 10px 35px;
     background-color: transparent;
-    border: 1px sold white;
+    border: 1px solid white;
     color: white;
     outline: none;
     transition: .6s ease;
