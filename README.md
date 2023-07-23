@@ -1,5 +1,5 @@
-PROJECT 1
-# myportfolio.github.io
+# PROJECT 1
+## myportfolio.github.io
 
 ## MY PORTFOLIO
 Welcome to the professional portfolio of Pradeep Subedi. As you navigate through this website, my primary objective is to provide you with a comprehensive understanding of both my personal background and the range of services I offer.
